@@ -1,0 +1,12 @@
+﻿{
+	"file": "https://drive.google.com/open?id=1w4G52T5YVzVk42Vc8Yu9inVgqjgwtuTN/PO130_upset.csv",
+	"name": "PO130_upset",
+	"header": 0,
+	"separator": ";",
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Sequence" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	]
+}
