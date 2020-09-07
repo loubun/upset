@@ -1,0 +1,13 @@
+{
+	"file": "data/fruit/CARupset.csv",
+	"name": "Important Information about Fruit",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "PG_ProteinGroups" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 19 }
+	]
+}
