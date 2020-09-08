@@ -1,6 +1,6 @@
 {
-	"file": "data/fruit/CARupset.csv",
-	"name": "Important Information about Fruit",
+	"file": "https://raw.githubusercontent.com/loubun/upset/master/CARupset.csv",
+	"name": "CARupset",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
