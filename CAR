@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/loubun/upset/master/NeoDFU_C_upset.csv",
+	"name": "CAR",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }	
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 19 }
+	]
+}
