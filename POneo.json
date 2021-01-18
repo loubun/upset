@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/loubun/upset/master/PO_Neo_Nterm_Q_2_upset.csv",
-	"name": "PO_Neo_Nterm_Q_2_upset",
+	"file": "https://raw.githubusercontent.com/loubun/upset/master/PO_Neo_Nterm_upset.csv",
+	"name": "PO_Neo_Nterm_upset",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
